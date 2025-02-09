@@ -19,11 +19,4 @@
 
 
 📬 **Let's connect!**
-[LinkedIn](https://www.linkedin.com/in/RubenAvanesov) | [GitHub](https://github.com/RubenAAA) | [Email](mailto:ruben.avanesov@student.ie.edu)
-
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-Expert-9cf?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-orange?style=for-the-badge)
-![Quantitative Finance](https://img.shields.io/badge/Quantitative%20Finance-Experienced-blueviolet?style=for-the-badge)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubenAAA&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenAAA&layout=compact)
+[LinkedIn](https://www.linkedin.com/in/RubenAvanesov/) | [GitHub](https://github.com/RubenAAA) | [Email](mailto:ruben.avanesov@student.ie.edu)
